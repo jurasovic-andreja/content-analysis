@@ -4,3 +4,4 @@ plotly
 openai
 matplotlib
 beautifulsoup4
+langdetect
